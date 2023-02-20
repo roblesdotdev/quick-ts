@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "test-typescript",
+  "version": "1.0.0",
+  "description": "Typescript starter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "roblesdotdev",
+  "license": "ISC"
+}
