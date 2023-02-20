@@ -1,3 +1,3 @@
 # Quick typescript
 
-Fatest typescript starter.
+Fastest typescript starter.
